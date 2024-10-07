@@ -2,7 +2,7 @@
 
 ## 1. Run a Docker Container with SQL Server
 
-Install and run Docker Desktop
+Install and run **Docker Desktop**
 
 Open a command prompt window and run this command:
 
@@ -14,7 +14,7 @@ docker run ^  -e "ACCEPT_EULA=Y" ^  -e "MSSQL_SA_PASSWORD=Luiscoco123456" ^  -p 
 
 ## 2. Connect to SQL Server Management Studio (SSMS)
 
-Run SSMS and input the connection data
+Run **SSMS** and input the connection data
 
 Password is: Luiscoco123456
 
