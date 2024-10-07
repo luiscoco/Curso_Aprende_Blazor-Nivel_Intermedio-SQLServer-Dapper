@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35323.107
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWebAppWithDapper", "BlazorWebAppWithDapper.csproj", "{C98A06C7-FBB1-4733-AEE4-D1279000C85C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C98A06C7-FBB1-4733-AEE4-D1279000C85C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C98A06C7-FBB1-4733-AEE4-D1279000C85C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C98A06C7-FBB1-4733-AEE4-D1279000C85C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C98A06C7-FBB1-4733-AEE4-D1279000C85C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B8CE89F-8B37-491A-A989-25716B919A2C}
+	EndGlobalSection
+EndGlobal
