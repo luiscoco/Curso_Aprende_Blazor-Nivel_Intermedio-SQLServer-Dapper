@@ -76,11 +76,11 @@ Search for Blazor project templates and select Blazor Web App and press the next
 
 Input the project name and chose the project location in the hard disk and press the next button 
 
-
+![image](https://github.com/user-attachments/assets/c6fb0373-577c-4cc4-8ece-5c49a1faa539)
 
 Leave all the default values and press the Create button
 
-
+![image](https://github.com/user-attachments/assets/945afd89-1c06-406e-ae64-2c38816ba152)
 
 ## 7. Add the Nuget packages
 
