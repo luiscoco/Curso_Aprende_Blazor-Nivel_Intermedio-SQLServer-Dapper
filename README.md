@@ -235,3 +235,4 @@ namespace BlazorWebAppWithDapper.Data
 
 ## 10. Run the application a see the results
 
+![image](https://github.com/user-attachments/assets/2a161595-c2d6-428d-a249-02b3fcb988ec)
