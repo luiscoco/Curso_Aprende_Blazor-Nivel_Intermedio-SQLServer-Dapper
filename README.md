@@ -216,4 +216,22 @@ namespace BlazorWebAppWithDapper.Data
 }
 ```
 
+## 9. Set connection string in the appsettings.json
+
+```json
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=localhost,1433;Database=BlazorAppDB;User Id=sa;Password=Luiscoco123456;Trusted_Connection=False;TrustServerCertificate=True;"
+  },
+  "AllowedHosts": "*"
+}
+```
+
+## 10. Run the application a see the results
 
