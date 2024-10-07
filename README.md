@@ -76,13 +76,22 @@ Search for Blazor project templates and select Blazor Web App and press the next
 
 Input the project name and chose the project location in the hard disk and press the next button 
 
-![image](https://github.com/user-attachments/assets/97fe1efd-c3c0-45b8-87e2-b51605d00912)
+
 
 Leave all the default values and press the Create button
 
-![image](https://github.com/user-attachments/assets/d580a161-0bef-4154-a4fe-3b724ed19f3f)
+
 
 ## 7. Add the Nuget packages
 
 Install the required NuGet packages:
 
+Dapper
+
+Microsoft.Data.SqlClient
+
+System.Data.Common
+
+![image](https://github.com/user-attachments/assets/7f187b26-ad18-4e6a-9b52-0e9b79e1798d)
+
+## 8. 
